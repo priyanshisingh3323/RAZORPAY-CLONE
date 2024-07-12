@@ -1,0 +1,15 @@
+.image{
+    color: none;
+}
+.image:hover{
+ color: rgb(39, 210, 76);
+ background: rgb(69, 186, 233);
+ position:absolute;
+ right: 3;
+ top: 3;
+ width: 12;
+ height: 12;
+ transform: all;
+ transition-duration: 200ms;
+   
+}
